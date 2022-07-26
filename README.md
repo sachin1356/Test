@@ -9,3 +9,7 @@ String query = "SELECT secret FROM Users WHERE (username = '" + username + "' AN
 String query = String.format("SELECT secret FROM Users WHERE (username = '%s' AND NOT role = 'admin')", username);
 // Execute query and return the results
 ResultSet result = statement.executeQuery(query);
+jdom2-2.0.6.jar
+javax.servlet-api3.0.1
+tomcat-embed-core-9.0.63.jar
+Zotpress6.1.2
