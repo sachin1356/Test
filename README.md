@@ -13,3 +13,5 @@ jdom2-2.0.6.jar
 javax.servlet-api3.0.1
 tomcat-embed-core-9.0.63.jar
 Zotpress6.1.2
+private_key_id": "d30b0f8858589d3d1294aee5b"
+"private_key": "-----BEGIN PRIVATE KEY-----<Actual Private Key>a\n-----END PRIVATE KEY-----\n"
