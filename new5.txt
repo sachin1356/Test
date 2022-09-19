@@ -1,0 +1,3 @@
+username="root"
+password="root"
+AWS_KEY="abcd344549ddfsdfsdfsf"
